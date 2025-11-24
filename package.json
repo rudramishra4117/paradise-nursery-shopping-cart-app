@@ -1,6 +1,7 @@
 {
     "name": "shoppingcart",
     "private": true,
+    "homepage": "https://rudramishra4117.github.io/paradise-nursery-shopping-cart-app/"
     "version": "0.0.0",
     "type": "module",
     "scripts": {
